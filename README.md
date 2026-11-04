@@ -74,3 +74,18 @@ The analysis covers 541,909 transaction records from the UCI Online Retail datas
 ### 4. Top 10 Countries by Net Revenue
 
 ![Sales by Country](images/sales_by_country.png)
+
+## Dataset Source
+
+This project uses the Online Retail dataset from the
+UCI Machine Learning Repository.
+
+Dataset:
+https://archive.ics.uci.edu/dataset/352/online+retail
+
+The dataset contains 541,909 transaction records.
+
+To reproduce the analysis:
+1. Download the dataset from the link above.
+2. Create a folder named `data` in the project directory.
+3. Place `Online Retail.xlsx` inside the `data` folder.
